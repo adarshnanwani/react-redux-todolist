@@ -4,7 +4,7 @@ import {
   DELETE_TODO,
   UPDATE_TODO,
   TOGGLE_TODO
-} from '../actions/todos';
+} from '../actions/actionTypes';
 
 const initialState = [];
 
